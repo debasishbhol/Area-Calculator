@@ -196,7 +196,7 @@ void choice() {
 		choice();
 		printf("\n..............................................................................\n\n");
 		printf("..............................................................................\n");
-		printf("\n\nDo you want to calculate more area (Y/N): ");
+		printf("\n\nDo you want to calculate more (Y/N): ");
 		scanf("%d",&kk);
 		scanf("%c",&cc);
 		if(cc == 'N' || cc == 'n')
