@@ -3,6 +3,7 @@
 #include<string.h>
 #include<windows.h>
 #define PI 3.142
+#define lld long long int
 
 void triangle() {
 	int s, a, b, c, area;
