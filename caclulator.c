@@ -11,7 +11,7 @@ void triangle() {
     scanf("%d %d %d", &a, &b, &c);
     s = (a + b + c) / 2;
     area = sqrt(s * (s - a) * (s - b) * (s - c));
-    printf("Area of a triangle = %d \n", area);
+    printf("Area of the triangle = %d \n", area);
 }
  
 void circle() {
